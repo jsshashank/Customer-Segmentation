@@ -53,10 +53,9 @@ This project applies unsupervised machine learning to perform customer segmentat
 ## 📷 Visualizations
 
 ### 📍 Elbow Method
-![Elbow Plot](assets/elbow_plot.png)
+![Elbow Plot](https://github.com/jsshashank/Customer-Segmentation/blob/main/elbow%20plot.png)
 
 ### 🧬 PCA Cluster Plot
-![PCA Clusters](assets/pca_clusters.png)
-
+![PCA Clusters](https://github.com/jsshashank/Customer-Segmentation/blob/main/customer_seg_PCA%20plot.png)
 
 
